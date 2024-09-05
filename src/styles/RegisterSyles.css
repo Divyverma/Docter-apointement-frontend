@@ -1,0 +1,22 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.register-form{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 30px;
+    width: 30%;
+}
+
+.btn-div{
+    display: flex;
+    align-items:baseline;
+    justify-content: start;
+}
+.btn-div button{
+    margin-right: 5px;
+}
